@@ -1,6 +1,6 @@
 # **Eae Sou o BALACA**
 
-<img align="right" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" width="100" alt="Tux, o mascote do Linux">
+<img align="right" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" width="290" alt="Tux, o mascote do Linux">
 
 <img src="https://github-readme-stats.vercel.app/api?username=pedrobalaca&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub">
 
